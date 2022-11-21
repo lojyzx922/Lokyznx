@@ -1,24 +1,24 @@
-### Hi there 👋
+### Olá 👋
 
-My name is Polar and I'm a software engineer.
+Meu nome é Loky e sou engenheiro de software.
 
-- 🔭 I’m currently working on
+- 🔭 Atualmente estou trabalhando em
   * [Spacedrive](https://github.com/spacedriveapp/spacedrive), a file explorer from the future. 
    
-- 📫 How to reach me:
+- 📫 Como chegar até mim:
 
-  Twitter: [@xPolarrr](https://twitter.com/xPolarrr)
+  Twitter: [@Lokyznx](https://twitter.com/Lokyznx)
   
-  Discord: [Polar#6880](https://discord.com/users/619284841187246090)
+  Discord: [Loky#0957](https://discord.com/users/894757773928202260)
  
-  Website: [polar.blue](https://polar.blue)
+  Website: [Em desenvolvimento]()
   
 <p align="center">
  <a href="https://inv.wtf/polar" target="_blank"><img src="https://inv.wtf/widget/polar"></a>
 </p>
 
 <p align="center">
- <img src="https://lanyard.cnrad.dev/api/619284841187246090">
+ <img src="https://lanyard.cnrad.dev/api/894757773928202260">
 </p>
  
 <p align="center">
