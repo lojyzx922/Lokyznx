@@ -20,9 +20,3 @@ Meu nome é Loky e sou engenheiro de software.
 <p align="center">
  <img src="https://lanyard.cnrad.dev/api/894757773928202260">
 </p>
- 
-<p align="center">
- <a href="https://ko-fi.com/K3K1C6F78"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-</p>
-
-<!-- This README was heavily inspired by https://github.com/GamingGeek, go check him out, he does amazing things! -->
